@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplest_mediadata_test", "simplest_mediadata_test\simplest_mediadata_test\simplest_mediadata_test.vcxproj", "{DCEEED89-0740-484A-817F-927B73613B13}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "yuvplayer", "YUVplayer\yuvplayer\yuvplayer.vcxproj", "{5135A4A2-E648-4D63-8A62-D96FBC424788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCEEED89-0740-484A-817F-927B73613B13}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCEEED89-0740-484A-817F-927B73613B13}.Debug|Win32.Build.0 = Debug|Win32
+		{DCEEED89-0740-484A-817F-927B73613B13}.Release|Win32.ActiveCfg = Release|Win32
+		{DCEEED89-0740-484A-817F-927B73613B13}.Release|Win32.Build.0 = Release|Win32
+		{DCEEED89-0740-484A-817F-927B73613B13}.Template|Win32.ActiveCfg = Release|Win32
+		{DCEEED89-0740-484A-817F-927B73613B13}.Template|Win32.Build.0 = Release|Win32
+		{5135A4A2-E648-4D63-8A62-D96FBC424788}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5135A4A2-E648-4D63-8A62-D96FBC424788}.Debug|Win32.Build.0 = Debug|Win32
+		{5135A4A2-E648-4D63-8A62-D96FBC424788}.Release|Win32.ActiveCfg = Release|Win32
+		{5135A4A2-E648-4D63-8A62-D96FBC424788}.Release|Win32.Build.0 = Release|Win32
+		{5135A4A2-E648-4D63-8A62-D96FBC424788}.Template|Win32.ActiveCfg = Template|Win32
+		{5135A4A2-E648-4D63-8A62-D96FBC424788}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
